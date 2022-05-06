@@ -7,11 +7,11 @@
 		}
 	},
 	"plugins": [
+		"table-cell-merge",
 		"back-to-top-button",
 		"chapter-fold",
 		"-lunr", "-search", "search-pro",
 		"splitter",
-		"auto-scroll-table",
-		"lightbox"
+		"auto-scroll-table"
 	]
 }
