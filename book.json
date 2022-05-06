@@ -1,0 +1,17 @@
+{
+	"title": "六十年來之嶺東紀略",
+	"author": "蕭冠英",
+	"links": {
+		"sidebar": {
+			"六十年來之嶺東紀略": "http://read.nlc.cn/allSearch/searchDetail?searchType=1001&showType=1&indexName=data_416&fid=15jh003147"
+		}
+	},
+	"plugins": [
+		"back-to-top-button",
+		"chapter-fold",
+		"-lunr", "-search", "search-pro",
+		"splitter",
+		"auto-scroll-table",
+		"lightbox"
+	]
+}
