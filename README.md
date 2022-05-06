@@ -5,7 +5,7 @@
 
 2022年5月7日更新
 ## 本書電子化相關
-- 該書已進入公有範圍，電子化主要參考[暨大版本](https://m.douban.com/group/topic/109051881/)（註1） ，並有[北京工業大學版本](http://read.nlc.cn/allSearch/searchDetail?searchType=1001&showType=1&indexName=data_416&fid=15jh003147)（註2） 供對比。
+- 該書已進入公有範圍，電子化主要參考[暨大版本](https://m.douban.com/group/topic/109051881/)（註1） ，並有[北工大版本](http://read.nlc.cn/allSearch/searchDetail?searchType=1001&showType=1&indexName=data_416&fid=15jh003147)（註2） 供對比。
 
 
 - 文中除表數字之外的“〇”字用於表示原書不可辨之字
