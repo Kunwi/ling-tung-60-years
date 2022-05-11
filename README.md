@@ -19,6 +19,8 @@
 - 由Kunwi製作，隨緣更新，現已更新至第八章第二節，第三節絕讚更新中。
 
 - 初次用github發佈電子書，錯漏難免，還請讀者不吝[賜教](https://github.com/Kunwi/ling-tung-60-years/issues)為幸。
+  
+- ![CC BY-NC-SA 4.0](\images\license.png) 该作品依照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) （即[知识分享 署名-非商业性使用-相同方式共享 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)） 协议进行授权。
 
 ***
 
