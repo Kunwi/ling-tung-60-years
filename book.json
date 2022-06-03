@@ -7,7 +7,6 @@
 		}
 	},
 	"plugins": [
-		"lightbox",
 		"url-embed",
 		"table-cell-merge",
 		"back-to-top-button",

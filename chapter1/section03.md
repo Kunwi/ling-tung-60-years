@@ -165,4 +165,4 @@ https://zh.wikipedia.org/wiki/%E6%A7%9F%E5%9F%8E
 
 據當地華裔介紹，泗水的另一來歷是為了紀念孔子葬在曲阜泗水邊。不論如何，「泗水」這個地名總是充滿濃厚的華人風格。
 參見維基百科：泗水（印尼）
-https://zh.wikipedia.org/zh-hk/%E6%B3%97%E6%B0%B4_(%E5%8D%B0%E5%B0%BC)
+<https://zh.wikipedia.org/zh-hk/%E6%B3%97%E6%B0%B4_(%E5%8D%B0%E5%B0%BC)>
