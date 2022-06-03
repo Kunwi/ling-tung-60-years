@@ -13,8 +13,9 @@
 9.  本書付印之際。得范志陸兄經濟之資助。及饒善初、陳梓樁、余世達諸兄或代繕稿。或代校勘。而吾弟樞香、鵬魂[^1]均代捜集材料。本書早觀厥成。特誌感謝。
 
 [^1]: 即蕭雋英（1901-1988），因蕭冠英關係結識鄒魯、范其務，曾參與東征，期間成為中共黨員，並曾在國立廣東大學就讀。清黨時期轉赴香港。後在蕭冠英資助下轉赴日本留學，1933年7月畢業於日本早稻田大学政治经济学部政治系。後回國任中大教授兼學校祕書、《新宇宙》主編、《群声报》社社长等。1949年7月，以民革委員身份出席新政協，1950年與廣州大學教授梁式文建議將私立廣州大學、國民大學、文化大學、廣州法學院等合併為華南聯合大學，1981年3月與梁式文等共同創辦廣州業餘財經學院並任院長。1988年病逝。
-a 民革廣東省委員會：《追求民主，奮鬥一生》，《廣東文史資料 第80輯 廣東民主人士名人傳》
+a 民革廣東省委員會：《追求民主，奮鬥一生》，引自中共廣東省委統戰部、廣東省政協文史資料研究委員會合編：《廣東文史資料 第80輯 廣東民主人士名人傳》，1998
 
-b 馬至融等：廣東留學史 https://books.google.com/books?id=0IRAEAAAQBAJ&pg=PA444&lpg=PA444&dq=%E8%95%AD%E9%B5%AC%E9%AD%82&source=bl&ots=Kmn5Hcjhj_&sig=ACfU3U07woibVtTeW96JQtTjSiKKLp2FYw&hl=en&sa=X&ved=2ahUKEwiTzf6yp7z3AhWWX80KHYuICYkQ6AF6BAgXEAM#v=onepage&q=%E8%95%AD%E9%B5%AC%E9%AD%82&f=false
+b 馬至融等：廣東留學史,2018
+https://www.google.com/books/edition/%E5%B9%BF%E4%B8%9C%E7%95%99%E5%AD%A6%E5%8F%B2/0IRAEAAAQBAJ
 
-c https://baike.baidu.com/item/%E8%90%A7%E9%9A%BD%E8%8B%B1/20797090
+c 百度百科：蕭雋英 https://baike.baidu.com/item/%E8%90%A7%E9%9A%BD%E8%8B%B1/20797090
