@@ -1,4 +1,5 @@
-(function() {
+require(["gitbook", "jQuery"], function(gitbook, $) {
+  gitbook.events.bind("page.change", function() {
     [].slice.call(document.querySelectorAll('table')).forEach(function(el){
         var wrapper = document.createElement('div');
         wrapper.className = 'table-area';
@@ -6,5 +7,6 @@
         el.parentNode.removeChild(el);
         wrapper.appendChild(el);
     });
-  })();
-  
+  });
+
+});
