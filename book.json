@@ -7,12 +7,11 @@
 		}
 	},
 	"plugins": [
-		"url-embed",
+		"auto-scroll-table@git+https://github.com/ideamean/gitbook-plugin-auto-scroll-table.git",
 		"table-cell-merge",
 		"back-to-top-button",
 		"chapter-fold",
 		"-lunr", "-search", "search-pro",
-		"splitter",
-		"auto-scroll-table"
+		"splitter"
 	]
 }
