@@ -54,6 +54,7 @@
     * [第二節    外海航路之交通](chapter8/section02.md)
     * [第三節    內河及近海沿岸之交通](chapter8/section03.md)
     * [第四節    鐵路](chapter8/section04.md)
+    * [第五節    輕便鐵路](chapter8/section05.md)
 * [校對說明](appendix0.md)
     * [第一章第二節中的表格數據校對說明](appendix0/section01.md)
 
