@@ -55,6 +55,12 @@
     * [第三節    內河及近海沿岸之交通](chapter8/section03.md)
     * [第四節    鐵路](chapter8/section04.md)
     * [第五節    輕便鐵路](chapter8/section05.md)
+    * [第六節    通信機關](chapter8/section06.md)
+* [第九章 移民之數目及移住址](chapter9.md)
+    * [第一節    總論](chapter9/section01.md)
+    * [第二節    移民之原籍地](chapter9/section02.md)
+    * [第三節    移民之情形](chapter9/section03.md)
+    * [第四節    移民之兌銀返鄉方法](chapter9/section04.md)
 * [校對說明](appendix0.md)
     * [第一章第二節中的表格數據校對說明](appendix0/section01.md)
 
