@@ -61,6 +61,7 @@
     * [第二節    移民之原籍地](chapter9/section02.md)
     * [第三節    移民之情形](chapter9/section03.md)
     * [第四節    移民之兌銀返鄉方法](chapter9/section04.md)
+* [第十章 外國人及其籍民之住址調查錄](chapter10.md)
 * [校對說明](appendix0.md)
     * [第一章第二節中的表格數據校對說明](appendix0/section01.md)
 
