@@ -69,6 +69,6 @@
 
 註：標*者表示本年度各數據邏輯不能自恰
 
-[^1]: 謝雪影：《潮梅現象》，1935，[臺灣華人電子書庫](https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900015197)以及[中國國家數字圖書館](http://read.nlc.cn/allSearch/searchDetail?searchType=1001&showType=1&indexName=data_416&fid=17jh000163)均有數字版本可供瀏覽
+[^1]: 謝雪影：《潮梅現象》，1935，[台灣華人電子書庫](https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900015197)以及[中國國家數字圖書館](http://read.nlc.cn/allSearch/searchDetail?searchType=1001&showType=1&indexName=data_416&fid=17jh000163)均有數字版本可供瀏覽
 
-[^2]: 汕頭市市政廳：《新汕頭》，1928，[臺灣華人電子書庫](https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-31111003746292)有數字版本可供瀏覽
+[^2]: 汕頭市市政廳：《新汕頭》，1928，[台灣華人電子書庫](https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-31111003746292)有數字版本可供瀏覽
