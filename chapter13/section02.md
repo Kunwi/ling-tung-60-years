@@ -67,7 +67,7 @@
 
 簡介可見於THE ANEMOMETEE EXHIBITION.引自METEOROLOGICAL MAGAZINE.1882年四月版，電子版本見https://digital.nmla.metoffice.gov.uk/download/file/IO_2d5e88d6-4fa0-42af-a4e7-676a30774492
 
-圖片可見於Weather Warnings for Watchers，圖56：Prestel’s Pendulum Anemometer.電子版本見https://www.gutenberg.org/files/47330/47330-h/47330-h.htm\#Page_79
+圖片可見於Weather Warnings for Watchers，圖56：Prestel’s Pendulum Anemometer.電子版本見https://www.gutenberg.org/files/47330/47330-h/47330-h.htm 第79頁
 
 [^13]: Robinson's Anemometer，也叫Cup anemometers，為旋轉式，一般由三個半圓杯組成。
 
