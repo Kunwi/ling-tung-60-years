@@ -12,4 +12,4 @@
 
 參見香港政府憲報第765號（1930年12月19日）https://sunzi1.lib.hku.hk/hkgro/view/g1930/573414.pdf
 
-轉引自維基百科香港熱帶氣旋警告信號條目https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F\#cite_ref-%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E6%86%B2%E5%A0%B1%E7%AC%AC765%E8%99%9F%EF%BC%881930%E5%B9%B412%E6%9C%8819%E6%97%A5%EF%BC%89_10-0
+轉引自維基百科：香港熱帶氣旋警告信號條目https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99 參考資料第10點

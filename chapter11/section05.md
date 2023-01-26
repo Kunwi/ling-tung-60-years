@@ -274,15 +274,15 @@ Trachom 為一種慢性傳染病。其病源雖未明瞭。但常混於眼之分
 
 [^13]: 指黏膜炎，借自日語 カタル (kataru)，後者借自荷蘭語 catarre。
 
-參見維基詞典加答兒條目https://zh.wiktionary.org/wiki/%E5%8A%A0%E7%AD%94%E5%85%92
+參見維基詞典：加答兒條目https://zh.wiktionary.org/wiki/%E5%8A%A0%E7%AD%94%E5%85%92
 
 [^14]: 原文為肺災，似應為肺炎。
 
 [^15]: 即前驅期的症狀。前驅期是疾病傳染過程中的一個階段，患者開始出現一些非特異性的症狀，而尚無特殊的臨床症狀或體徵。多用於精神疾病的症狀描述。
 
-參見张晓：如何识别精神分裂症的前驱期症状，尽早干预？https://www.thepaper.cn/newsDetail_forward_15767236
+參見張曉：如何識別精神分裂症的前驅期症狀，儘早干預？https://www.thepaper.cn/newsDetail_forward_15767236
 
-以及百度百科：前驱期的定義https://baike.baidu.com/item/%E5%89%8D%E9%A9%85%E6%9C%9F/7344263
+以及百度百科：前驅期的定義https://baike.baidu.com/item/%E5%89%8D%E9%A9%85%E6%9C%9F/7344263
 
 [^16]: 原文為poeken，參考前例作相應修改。
 
@@ -294,11 +294,11 @@ Trachom 為一種慢性傳染病。其病源雖未明瞭。但常混於眼之分
 
 [^20]: 即瘧蚊屬，別稱按蚊或馬拉利亞蚊，是蚊科（Culicidae）下的一屬。其中有30-40種是瘧原蟲屬生物的寄主，會傳播瘧疾給人類。
 
-見維基百科瘧蚊條目https://zh.wikipedia.org/wiki/%E7%98%A7%E8%9A%8A
+見維基百科：瘧蚊條目https://zh.wikipedia.org/wiki/%E7%98%A7%E8%9A%8A
 
 [^21]: 即家蚊屬，也稱庫蚊屬，是蚊科的一個屬。
 
-見維基百科庫蚊屬條目https://zh.wikipedia.org/wiki/%E5%AE%B6%E8%9A%8A%E5%B1%9E
+見維基百科：庫蚊屬條目https://zh.wikipedia.org/wiki/%E5%AE%B6%E8%9A%8A%E5%B1%9E
 
 [^22]: 中文稱之為瘧原蟲，是一類單細胞、寄生性的囊泡蟲藻類。非病毒。
 
@@ -356,7 +356,7 @@ Trachom 為一種慢性傳染病。其病源雖未明瞭。但常混於眼之分
 
 [^36]: 現代分類為五種：結核樣型痲瘋病（TT）、界線類偏結核樣型痲瘋病（BT）、中間界線類痲瘋病（BB）、界線類偏瘤型痲瘋病（BL）、瘤型痲瘋病（LL）
 
-參見維基百科：痲瘋病https://zh.wikipedia.org/wiki/%E9%BA%BB%E9%A3%8E%E7%97%85
+參見維基百科：痲瘋病條目https://zh.wikipedia.org/wiki/%E9%BA%BB%E9%A3%8E%E7%97%85
 
 [^37]: 此處為法文，英文稱為Tuberculosis
 
@@ -384,9 +384,9 @@ Trachom 為一種慢性傳染病。其病源雖未明瞭。但常混於眼之分
 
 [^48]: 原文為blennorrhoica，查實應為blennorrhagica。可拆分為mucousy (blenno-) discharge (-rrhagia)，表示有流膿症狀的疾病。也稱為膿溢性。
 
-參見英文維基百科Keratoderma blennorrhagicum條目https://en.wikipedia.org/wiki/Keratoderma_blennorrhagicum
+參見英文維基百科：Keratoderma blennorrhagicum條目https://en.wikipedia.org/wiki/Keratoderma_blennorrhagicum
 
-以及維基百科膿溢性皮膚角化病條目https://zh.wikipedia.org/wiki/%E8%84%93%E6%BA%A2%E6%80%A7%E7%9A%AE%E8%82%A4%E8%A7%92%E5%8C%96%E7%97%85
+以及維基百科：膿溢性皮膚角化病條目https://zh.wikipedia.org/wiki/%E8%84%93%E6%BA%A2%E6%80%A7%E7%9A%AE%E8%82%A4%E8%A7%92%E5%8C%96%E7%97%85
 
 [^49]: 原文為Argent nitrie，查實應為Argentous nitrate。英文一般稱為Silver nitrate，
 

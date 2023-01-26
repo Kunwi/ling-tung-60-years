@@ -27,4 +27,5 @@
 [^1]: 原文如此，現譯名為菲律賓
 
 [^2]: 即巴達維亚城(Batavia)，是雅加達在1619年被荷蘭人佔領以後使用的地名，華人簡稱為“吧城”或“巴城”。
-參見https://www.thepaper.cn/newsDetail_forward_2065712
+
+參見陳非兒：《講座|聶德寧：吧城華人公館留下了哪些重要文獻》https://www.thepaper.cn/newsDetail_forward_2065712

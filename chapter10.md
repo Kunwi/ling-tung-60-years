@@ -101,16 +101,21 @@
 | /              | /          | /      | /                |
 
 [^1]: 即“混雜”，“溷”為“混”的異體字。
-見https://www.zdic.net/hans/%E6%BA%B7%E9%9B%9C以及https://www.zdic.net/hans/%E6%BA%B7
 
-[^2]: 指犯法作乱的坏人，
+見https://www.zdic.net/hans/%E6%BA%B7%E9%9B%9C
+
+以及https://www.zdic.net/hans/%E6%BA%B7
+
+[^2]: 指犯法作亂的壞人，
 見https://www.zdic.net/hans/%E5%A5%B8%E5%AE%84
 
 [^3]: 即挪威
 
 [^4]: 據發音可能為C. F. Garstin（Charles Fortescue Garstin，噶尔斯廷，1880-1969），其於1901年來華從事領事工作。曾任代理上海總領事（1922、1928-1930）、廈門領事（1925）、廣東領事館漢文代理祕書（任廈門領事後不久）、代理哈爾濱總領事（1931）、總領事（1930-1935）等。在廣東領事館漢文代理祕書任內似兼管汕頭領事。
 參見房建昌：近代廣東英國領事館及領事考https://www.globethics.net/pdfs/CNKI/CJFD/GDSI199904004.pdf
+
 以及房建昌：近代外國駐黑龍江領事機構考http://rdbk1.ynlib.cn:6251/qk/Paper/204770\#anchorList
+
 尚未找到更可信來源。
 
 [^5]: 德國駐汕頭領事館在1864年起設立，至1917年由於第一次世界大戰德國戰敗而關閉。故在該書成稿時並無領事。
@@ -118,7 +123,8 @@
 
 [^6]: 伯克（Gordon L. Burke，發音與本書譯名“歩戈登”相近），美國佐治亞州梅肯（Macon, Bibb County, Ga. U.S.）人，1924年曾任美國駐汕頭領事館副領事。
 參見維基百科：美國駐汕頭領事館條目https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B1%95%E5%A4%B4%E9%A2%86%E4%BA%8B%E9%A6%86
-以及其引用來源https://politicalgraveyard.com/bio/burke.html\#431.54.62
+
+以及其引用來源https://politicalgraveyard.com/bio/burke.html
 
 [^7]: 此處三麟公司主任人姓名為“羅炳章”，與以下三麟公司住宅主任人姓名[“羅炳璋”](#reffn_8)不同，疑為筆誤。“羅炳章”之名可見於：
 中村孝至：汕頭博愛会医院の成立https://opac.tenri-u.ac.jp/opac/repository/metadata/1739/GKH016210.pdf
