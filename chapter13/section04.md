@@ -39,27 +39,27 @@ Fr-Cu[^19]，Fractocumulus[^20]厚雲，其上層成圓丘凸出。下面平直�
 
 [^2]: 通用縮寫為Cs。
 
-參見維基百科卷層雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E5%B1%82%E4%BA%91
+參見維基百科：卷層雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E5%B1%82%E4%BA%91
 
 [^3]: 原文為Cirro Stratus，似應為Cirrostratus。
 
-參見維基百科卷層雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E5%B1%82%E4%BA%91
+參見維基百科：卷層雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E5%B1%82%E4%BA%91
 
 [^4]: 通用縮寫為Cc。
 
-參見維基百科卷積雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF%E4%BA%91
+參見維基百科：卷積雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF%E4%BA%91
 
 [^5]: 原文為Cirro Cumulus，似應為Cirrocumulus。
 
-參見維基百科卷積雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF%E4%BA%91
+參見維基百科：卷積雲條目https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF%E4%BA%91
 
 [^6]: 通用縮寫為Ac。
 
-參見維基百科高積雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E7%A7%AF%E4%BA%91
+參見維基百科：高積雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E7%A7%AF%E4%BA%91
 
 [^7]: 原文為Alto Cumulus，似應為Altocumulus。
 
-參見維基百科高積雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E7%A7%AF%E4%BA%91
+參見維基百科：高積雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E7%A7%AF%E4%BA%91
 
 [^8]: 與卷積雲類似，但位於中層雲區域。
 
@@ -69,11 +69,11 @@ https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&bibcod
 
 [^9]: 通用縮寫為As。
 
-參見維基百科高層雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%82%E4%BA%91
+參見維基百科：高層雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%82%E4%BA%91
 
 [^10]: 原文為Alto Stratus，似應為Altostratus。
 
-參見維基百科高層雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%82%E4%BA%91
+參見維基百科：高層雲條目https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%82%E4%BA%91
 
 [^11]: 與卷層雲類似，但位於中層雲區域。
 
@@ -83,36 +83,36 @@ https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&bibcod
 
 [^12]: 通用縮寫為Sc。
 
-參見維基百科層積雲條目https://zh.wikipedia.org/zh-tw/%E5%B1%82%E7%A7%AF%E4%BA%91
+參見維基百科：層積雲條目https://zh.wikipedia.org/zh-tw/%E5%B1%82%E7%A7%AF%E4%BA%91
 
 [^13]: 原文為Strato Cumulus，似應為Stratocumulus。
 
-參見維基百科層積雲條目https://zh.wikipedia.org/zh-tw/%E5%B1%82%E7%A7%AF%E4%BA%91
+參見維基百科：層積雲條目https://zh.wikipedia.org/zh-tw/%E5%B1%82%E7%A7%AF%E4%BA%91
 
 [^14]: 通用縮寫為Ns。
 
-參見維基百科雨層雲條目https://zh.wikipedia.org/zh-tw/%E9%9B%A8%E5%B1%82%E4%BA%91
+參見維基百科：雨層雲條目https://zh.wikipedia.org/zh-tw/%E9%9B%A8%E5%B1%82%E4%BA%91
 
 [^15]: Nimbus為拉丁文“雨雲”的意思，現將雨層雲統稱為Nimbostratus
 
-參見維基百科雨層雲條目https://zh.wikipedia.org/zh-tw/%E9%9B%A8%E5%B1%82%E4%BA%91
+參見維基百科：雨層雲條目https://zh.wikipedia.org/zh-tw/%E9%9B%A8%E5%B1%82%E4%BA%91
 
 [^16]: 通用縮寫為Cb。
 
-參見維基百科積雨雲條目https://zh.wikipedia.org/zh-tw/%E7%A7%AF%E9%9B%A8%E4%BA%91
+參見維基百科：積雨雲條目https://zh.wikipedia.org/zh-tw/%E7%A7%AF%E9%9B%A8%E4%BA%91
 
 [^17]: 原文為Cumulo-Nimbus，似應為Cumulonimbus。
 
-參見維基百科積雨雲條目https://zh.wikipedia.org/zh-tw/%E7%A7%AF%E9%9B%A8%E4%BA%91
+參見維基百科：積雨雲條目https://zh.wikipedia.org/zh-tw/%E7%A7%AF%E9%9B%A8%E4%BA%91
 
 [^18]: 通用縮寫為St。分類為低雲族，即上文所述之下層雲。
 
-參見維基百科層雲條目https://zh.wikipedia.org/zh-tw/%E5%B1%82%E4%BA%91
+參見維基百科：層雲條目https://zh.wikipedia.org/zh-tw/%E5%B1%82%E4%BA%91
 
 [^19]: 通用縮寫為St fr., Cu fr., Frnb等。按此處定義似應為Cu fr.
 
-參見英文維基百科Fractus cloud條目https://en.wikipedia.org/wiki/Fractus_cloud
+參見英文維基百科：Fractus cloud條目https://en.wikipedia.org/wiki/Fractus_cloud
 
 [^20]: 原文為Fracto Cumlus，似應為Fractocumulus。上文所說的飛雲Scuds（即Fractus clouds）分為fractocumulus和fractostratus，此處似乎特指fractocumulus。
 
-參見英文維基百科Fractus cloud條目https://en.wikipedia.org/wiki/Fractus_cloud
+參見英文維基百科：Fractus cloud條目https://en.wikipedia.org/wiki/Fractus_cloud

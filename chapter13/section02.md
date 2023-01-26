@@ -45,7 +45,7 @@
 
 [^6]: 也稱為High wind ，Near Gale。
 
-[^7]: 原文為Morderate，應為Moderate。下倣。
+[^7]: 原文為Morderate，應為Moderate。下仿。
 
 [^8]: 米的舊稱
 
@@ -55,9 +55,9 @@
 
 [^10]: 即為蒲福氏風級（Beaufort scale或Beaufort wind force scale，又名蒲福風級、蒲氏風級），是英國人弗朗西斯·蒲福（Francis Beaufort）於1805年根據風對地面物體或海面的影響程度而定出的風力等級。表中的學名、風一秒之速力定義與維基百科所述多有不同。
 
-見維基百科蒲福氏風級條目https://zh.wikipedia.org/wiki/%E8%92%B2%E7%A6%8F%E6%B0%8F%E9%A2%A8%E7%B4%9A
+見維基百科：蒲福氏風級條目https://zh.wikipedia.org/wiki/%E8%92%B2%E7%A6%8F%E6%B0%8F%E9%A2%A8%E7%B4%9A
 
-英文名稱詳見英文維基百科Beaufort scale條目https://en.wikipedia.org/wiki/Beaufort_scale
+英文名稱詳見英文維基百科：Beaufort scale條目https://en.wikipedia.org/wiki/Beaufort_scale
 
 [^11]: 經查實，有小山哉所著之《衛生試驗法》，然而似乎為醫學書籍，該出典存疑。
 
@@ -71,4 +71,4 @@
 
 [^13]: Robinson's Anemometer，也叫Cup anemometers，為旋轉式，一般由三個半圓杯組成。
 
-詳見英文維基百科Anemometer條目https://en.wikipedia.org/wiki/Anemometer
+詳見英文維基百科：Anemometer條目https://en.wikipedia.org/wiki/Anemometer
