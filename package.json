@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.0.0",
+    "gitbook-plugin-sitemap": "^1.2.0",
+    "gitbook-plugin-table-cell-merge": "^1.0.8"
   }
 }
