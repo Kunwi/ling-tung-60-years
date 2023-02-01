@@ -7,11 +7,17 @@
 		}
 	},
 	"plugins": [
+		"sitemap-general",
 		"auto-scroll-table@git+https://github.com/ideamean/gitbook-plugin-auto-scroll-table.git",
 		"table-cell-merge",
 		"back-to-top-button",
 		"chapter-fold",
 		"-lunr", "-search", "search-pro",
 		"splitter"
-	]
+	],
+	"pluginsConfig": {
+		"sitemap-general": {
+			"prefix": "https://kunwi.github.io/ling-tung-60-years/"
+		}
+	}
 }

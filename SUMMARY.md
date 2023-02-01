@@ -87,6 +87,7 @@
     * [第二節    嶺東中等學校學生及經費比較表](chapter14/section02.md)
     * [第三節    汕頭市學校統計表](chapter14/section03.md)
     * [第四節    汕頭市學校概況](chapter14/section04.md)
+* [第十五章    嶺東之公用事業](chapter15.md)
 * [校對說明](appendix0.md)
     * [第一章第二節中的表格數據校對說明](appendix0/section01.md)
 
