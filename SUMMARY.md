@@ -88,6 +88,9 @@
     * [第三節    汕頭市學校統計表](chapter14/section03.md)
     * [第四節    汕頭市學校概況](chapter14/section04.md)
 * [第十五章    嶺東之公用事業](chapter15.md)
+* [第十六章    工人](chapter16.md)
+    * [第一節    普通勞動者及女傭之工銀](chapter16/section01.md)
+    * [第二節    汕頭市之工團](chapter16/section02.md)
 * [校對說明](appendix0.md)
     * [第一章第二節中的表格數據校對說明](appendix0/section01.md)
 
