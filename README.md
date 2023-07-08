@@ -3,7 +3,7 @@
 
 鄒魯 張綸 范其務 黃鎮球 陳銘樞 蕭冠英 同啟
 
-2023年05月09日更新
+2023年07月08日更新
 ## 本書電子化相關
 - 本書電子化主要參考[暨大版本](https://m.douban.com/group/topic/109051881/)（註1） ，並有[北工大版本](http://read.nlc.cn/allSearch/searchDetail?searchType=1001&showType=1&indexName=data_416&fid=15jh003147)（註2） 供對比。
 
@@ -15,7 +15,7 @@
 
 - 原書所附其餘表格為從左至右的閱讀順序，其與書中附圖均只見於北工大版本中。
 
-- 由Kunwi製作，隨緣更新。本書共十六章，現已完成第十六章，文後附錄及缺失表格絕讚補完中。
+- 由Kunwi製作，隨緣更新。本書共十六章，現已基本完成所有章節及文後附錄部分，缺失表格絕讚補完中。
 
 - 初次用github發佈電子書，錯漏難免，還請讀者不吝[賜教](https://github.com/Kunwi/ling-tung-60-years/issues)為幸。 
 

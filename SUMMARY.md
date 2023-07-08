@@ -91,6 +91,9 @@
 * [第十六章    工人](chapter16.md)
     * [第一節    普通勞動者及女傭之工銀](chapter16/section01.md)
     * [第二節    汕頭市之工團](chapter16/section02.md)
+* [附錄](appendix.md)
+    * [第一節    汕頭附近島嶼及商業城鎮](appendix/section01.md)
+    * [第二節    汕頭理船章程摘要](appendix/section02.md)
 * [校對說明](appendix0.md)
     * [第一章第二節中的表格數據校對說明](appendix0/section01.md)
 
